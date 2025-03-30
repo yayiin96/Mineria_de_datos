@@ -36,9 +36,9 @@ Se consulta el clima en tiempo real (temperatura, humedad, lluvia, presión, vie
 ## 📂 Estructura del Proyecto
 
 ```
-📁 solemne1
+📁 solemne_1
 │
-├── solemne1.ipynb                       # Notebook principal con el análisis
+├── solemne_1.ipynb                       # Notebook principal con el análisis
 ├── mapa_pm25_mundial_ultimo_anio.html   # Mapa interactivo generado
 ├── README.md                            # Descripción del proyecto
 ├── requirements.txt                     # Dependencias del proyecto
@@ -50,8 +50,8 @@ Se consulta el clima en tiempo real (temperatura, humedad, lluvia, presión, vie
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/solemne1.git
-   cd solemne1
+   git clone https://github.com/tu_usuario/solemne_1.git
+   cd solemne_1
    ```
 
 2. Instala las dependencias:
