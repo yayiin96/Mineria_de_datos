@@ -36,7 +36,7 @@ Se consulta el clima en tiempo real (temperatura, humedad, lluvia, presión, vie
 ## 📂 Estructura del Proyecto
 
 ```
-📁 solemne1_jose_soto
+📁 solemne1
 │
 ├── solemne_1.ipynb                      # Notebook principal con el análisis
 ├── mapa_pm25_mundial_ultimo_anio.html   # Mapa interactivo generado
