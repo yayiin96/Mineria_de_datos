@@ -1,8 +1,0 @@
-pandas
-numpy
-matplotlib
-seaborn
-folium
-google-cloud-bigquery
-google-auth
-requests
