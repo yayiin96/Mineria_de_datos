@@ -61,7 +61,7 @@ Se consulta el clima en tiempo real (temperatura, humedad, lluvia, presión, vie
 
 3. Ejecuta el notebook:
    ```bash
-   jupyter notebook solemne1.ipynb
+   jupyter notebook solemne_1.ipynb
    ```
 
 ---
